@@ -41,10 +41,6 @@
   <img align="center" alt="Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
   <img align="center" alt="Amazon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   
-  
-  <img align="right" alt="yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif](https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt)https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt](https://giphy.com/gifs/sad-depressed-disappointed-33iqmp5ATXT5m)https://giphy.com/gifs/sad-depressed-disappointed-33iqmp5ATXT5m](https://giphy.com/gifs/baby-yoda-QsPiApKClOffvxIXUy?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fwww.adorocinema.com%2F)https://giphy.com/gifs/baby-yoda-QsPiApKClOffvxIXUy?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fwww.adorocinema.com%2F">
-</div>
-
 ##
 
 <div> 

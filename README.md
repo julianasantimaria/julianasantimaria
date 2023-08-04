@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-👩🏼‍💻 I'm Juliana Santimaria Service Delivery Manager, but I love to develop software and mine data. <br/>
+👩🏼‍💻 I'm Juliana Santimaria Data Engineering Specialist, with a love for technology development. <br/>
 👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development. <br/>
 💻 My Skills: Spark, Python, Oracle PL/SQL, MySQL, Java, HTML, CSS and JavaScript. <br/>
 📚 Certificates: Microsoft, ITIL and Scrum. <br/>

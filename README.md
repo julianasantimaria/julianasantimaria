@@ -8,7 +8,7 @@
 
 👩🏼‍💻 I'm Juliana Santimaria Data Engineering Specialist, with a love for technology development. <br/>
 👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development. <br/>
-💻 My Skills: Spark, Python, Oracle PL/SQL, MySQL, Java, HTML, CSS and JavaScript. <br/>
+💻 My Skills: PL.SQL, Python (Pandas e Anaconda) , Scala, Pyspark, DAX, PowerQuery, MySQL, NoSQL, Modelagem de Dados, Data Bricks, Data Factory, Data Warehouse, Data Lake, Analysis Service, Java, HTML, CSS and JavaScript. <br/>
 📚 Certificates: Microsoft, ITIL and Scrum. <br/>
 ❤️ My Hobbies: Programming Language. <br/>
 📫 E-mail: juliana.santimaria@yahoo.com.br <br/>

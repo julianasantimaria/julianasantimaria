@@ -17,7 +17,7 @@ In avance: C++, Julia, Java and Spark.
 
 ❤️ My Hobbies: Programming Language. 
 
-📫 E-mail: juliana.santimaria@yahoo.com.br 
+📫 E-mail: juliana.santimaria2@gmail.com 
 <br/>
 <br/>
 <br/>

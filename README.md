@@ -25,6 +25,7 @@
 <div>
   <a href="https://github.com/julianasantimaria">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&show_icons=true"/>
 </div>
 
 ##

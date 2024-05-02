@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi people! 👋
+
 
 <div/>
 
@@ -6,10 +7,10 @@
 <br/>
 <br/>
 
-👩🏼‍💻 I'm Juliana Santimaria Data Engineering Specialist, with a love for technology development. <br/>
+👩🏼‍💻 I'm Data Engineering Specialist, with a love for technology development. <br/>
 👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development. <br/>
-💻 My Skills: PL.SQL, Python (Pandas e Anaconda) , Scala, Pyspark, DAX, PowerQuery, MySQL, NoSQL, Modelagem de Dados, Data Bricks, Data Factory, Data Warehouse, Data Lake, Analysis Service, Java, HTML, CSS and JavaScript. <br/>
-📚 Certificates: Microsoft, ITIL and Scrum. <br/>
+💻 Seniority in Technologies: Python, R, PL.SQL, PowerQuery and Dax. In avance: C++, Julia, Java and Spark. <br/>
+📚 Cloud Technologies: Microsoft an AWS. <br/>
 ❤️ My Hobbies: Programming Language. <br/>
 📫 E-mail: juliana.santimaria@yahoo.com.br <br/>
 
@@ -21,8 +22,8 @@
 <br/>
 <div>
   <a href="https://github.com/julianasantimaria">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/api?username=julianasantimaria&theme=dracula"/>
 </div>
 
 ##
@@ -50,6 +51,4 @@
   <a href="https://www.linkedin.com/in/julianasantimaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
 
-  ![Snake animation](https://github.com/julianasantimaria/julianasantimaria/blob/output/github-contribution-grid-snake.svg)

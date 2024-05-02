@@ -1,8 +1,8 @@
    <div>
 
 ### Hi people! 👋
-<img width="210px" align="right"  src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif">
-<img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif"> 
+<img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
+<img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
 
 👩🏼‍💻 I'm Data Engineering Specialist, with a love for technology development.
 

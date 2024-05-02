@@ -11,7 +11,7 @@
 
 💻 Seniority in Technologies: Python, R, PL.SQL, PowerQuery and Dax. In avance: C++, Julia, Java and Spark. 
 
-📚 Cloud Technologies: Microsoft, AWS and GCP. 
+📚 Cloud Technologies: Azure, AWS and GCP. 
 
 ❤️ My Hobbies: Programming Language. 
 

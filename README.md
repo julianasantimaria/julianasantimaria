@@ -32,14 +32,15 @@ In avance: C++, Julia, Java and Spark.
 
 ##
 
-<div style="display: flex; justify-content: center;">
-<center>
-  <img style="margin-right: 20px;" alt="AWS" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/01-aws.svg">
-  <img style="margin: 0 20px;" alt="Azure" height="100" width="80" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
-  <img style="margin-left: 20px;" alt="GCP" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/03-google.svg">
-</center>
+<a href="https://github.com/julianasantimaria">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&show_icons=true"/>
 </div>
-<br/>
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="AWS" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/01-aws.svg">
+  <img align="center" alt="Azure" height="100" width="80" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
+  <img align="center" alt="GCP" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/03-google.svg"/><br/>
   <img align="center" alt="Ubuntu" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/04-ubuntu.svg"/>
   <img align="center" alt="PowerShell" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/05-powershell.svg"/>
   <img align="center" alt="Docker" height="50" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/06-docker.svg">

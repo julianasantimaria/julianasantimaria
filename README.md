@@ -38,7 +38,7 @@ In avance: C++, Julia, Java and Spark.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/01-aws.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
+  <img align="center" alt="Azure" height="40" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
   <img align="center" alt="GCP" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/03-google.svg"/>
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/04-ubuntu.svg"/>
   <img align="center" alt="PowerShell" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/05-powershell.svg"/>
@@ -48,24 +48,25 @@ In avance: C++, Julia, Java and Spark.
   <img align="center" alt="GitHub" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/09-github.svg"/>
   <img align="center" alt="Postman" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/10-postman.svg"/>
   <img align="center" alt="VScode" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/11-vscode.svg">
-  <img align="center" alt="TersorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spark" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img align="center" alt="Anaconda" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Spyder" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-  <img align="center" alt="Plotly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MatPlotLib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="MatLab" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-  <img align="center" alt="Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Julia" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="TersorFlow" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/12-tensorflow.svg">
+  <img align="center" alt="Spark" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/13-spark.svg"/>
+  <img align="center" alt="Anaconda" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/14-anaconda.svg"/>
+  <img align="center" alt="Spyder" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/15-spyder.svg"/>
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/16-jupyter.svg">
+  <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/17-pycharm.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/18-python.svg"/>
+  <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/19-pandas.svg"/>
+  <img align="center" alt="NumPy" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/20-numpy.svg"/>
+  <img align="center" alt="Plotly" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/21-plotly.svg">
+  <img align="center" alt="MatPlotLib" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/22-matplotlib.svg">
+  <img align="center" alt="MatLab" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/23-matlab.svg"/>   
+  <img align="center" alt="Django" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/25-django.svg"/>
+  <img align="center" alt="Java" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/24-java.svg"/>
+   <img align="center" alt="Springboot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Scala" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/26-scala.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/27-cplusplus.svg">
+  <img align="center" alt="Julia" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/28-julia.svg"/>
+  <img align="center" alt="SQL" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/29-SQL.svg"/>
   
 ##
 

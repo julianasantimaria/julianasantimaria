@@ -7,7 +7,7 @@
 
 👩🏼‍💻 I'm Data Engineering Specialist, with a love for technology development.
 
-👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development.<br/>
+👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development.
    Specialist: Python
 
 💻 Seniority in Technologies: Python, R, PL.SQL, PowerQuery and Dax.<br/> 

@@ -29,9 +29,10 @@ In avance: C++, Julia, Java and Spark.
 
 <div>
    
-  <a href="https://github.com/julianasantimaria">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&show_icons=true"/>
+<div style="display: flex; justify-content: center;">
+  <img style="margin: 0 10px;" alt="AWS" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/01-aws.svg">
+  <img style="margin: 0 10px;" alt="Azure" height="100" width="80" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
+  <img style="margin: 0 10px;" alt="GCP" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/03-google.svg"/>
 </div>
 
 ##

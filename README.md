@@ -1,6 +1,6 @@
    <div>
 
-### Hello World! 👋
+## Hello World! 👋
 
 <img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
 <img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
@@ -30,13 +30,15 @@ In avance: C++, Julia, Java and Spark.
 <div>
    
 
-##
-
 <a href="https://github.com/julianasantimaria">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&show_icons=true"/>
 </div>
+
+   
 ##
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/01-aws.svg">
   <img align="center" alt="Azure" height="100" width="80" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">

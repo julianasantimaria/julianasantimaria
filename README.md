@@ -2,6 +2,7 @@
 
 ### Hi people! 👋
 
+<div style="display: inline_block"><br>
 <img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
 <img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
 

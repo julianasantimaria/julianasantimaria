@@ -38,7 +38,7 @@ In avance: C++, Julia, Java and Spark.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/01-aws.svg">
-  <img align="center" alt="Azure" height="70" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
+  <img align="center" alt="Azure" height="100" width="80" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/02-azure.svg">
   <img align="center" alt="GCP" height="50" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/03-google.svg"/><br/>
   <img align="center" alt="Ubuntu" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/04-ubuntu.svg"/>
   <img align="center" alt="PowerShell" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/05-powershell.svg"/>

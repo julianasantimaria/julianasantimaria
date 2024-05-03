@@ -63,7 +63,7 @@ In avance: C++, Julia, Java and Spark.
   <img align="center" alt="Plotly" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/21-plotly.svg">
   <img align="center" alt="MatPlotLib" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/22-matplotlib.svg">
   <img align="center" alt="MatLab" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/23-matlab.svg"/>   
-  <img align="center" alt="Django" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/25-django.svg"/><br/>
+  <img align="center" alt="Django" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/34-django2.svg"/><br/>
   <img align="center" alt="Java" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/24-java.svg"/>
   <img align="center" alt="Spring" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/30-spring.svg"/><br/>
   <img align="center" alt="Scala" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/26-scala.svg">

@@ -48,7 +48,7 @@ In avance: C++, Julia, Java and Spark.
   <img align="center" alt="Docker" height="50" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/06-docker.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/07-terraform.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/08-git.svg"/>
-  <img align="center" alt="GitHub" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/09-github.svg"/>
+  <img align="center" alt="GitHub" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/32-Github2.svg.png"/>
   <img align="center" alt="Postman" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/10-postman.svg"/>
   <img align="center" alt="VScode" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/11-vscode.svg">
   <img align="center" alt="TersorFlow" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/12-tensorflow.svg">

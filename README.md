@@ -56,8 +56,9 @@ In avance: C++, Julia, Java and Spark.
   <img align="center" alt="Anaconda" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/14-anaconda.svg"/>
   <img align="center" alt="Spyder" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/15-spyder.svg"/>
   <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/16-jupyter.svg">
-  <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/17-pycharm.svg"><br/>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/18-python.svg"/>
+  <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/17-pycharm.svg">
+  <img align="center" alt="Intellij" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/34-intellij.svg"><br/>
+   <img align="center" alt="Python" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/18-python.svg"/>
   <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/19-pandas.svg"/>
   <img align="center" alt="NumPy" height="30" width="50" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/20-numpy.svg"/>
   <img align="center" alt="Plotly" height="30" width="40" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/icons-svg/21-plotly.svg">

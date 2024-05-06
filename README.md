@@ -35,6 +35,8 @@ In avance: C++, Julia, Java and Spark.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&show_icons=true"/>
 </div>
 
+   ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+</div>
    
 ##
 

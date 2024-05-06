@@ -42,7 +42,8 @@ In avance: C++, Julia, Java and Spark.
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/julianasantimaria/julianasantimaria/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/julianasantimaria/julianasantimaria/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/julianasantimaria/julianasantimaria/blob/output/github-contribution-grid-snake.svg">
-
+  
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </picture>
 
    

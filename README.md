@@ -37,7 +37,7 @@ In avance: C++, Julia, Java and Spark.
 
 ##
 
-  
+  ![snake gif](https://github.com/julianasantimaria/julianasantimaria/blob/output/github-contribution-grid-snake.svg)
 
 
  <picture>

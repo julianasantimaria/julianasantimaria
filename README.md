@@ -1,6 +1,6 @@
    <div>
 
-## Hello World! 👋
+## Hello World! ☕️ 🐍
 
 <img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
 <img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 

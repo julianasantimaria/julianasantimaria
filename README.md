@@ -26,10 +26,18 @@ In avance: C++, Julia, Java and Spark.
 <br/>
 <br/>
 <br/>
-
 <div>
    
+<a href="https://github.com/patriciajunqueira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciajunqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciajunqueira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+
+
+
+<div>
+                                                            
 <a href="https://github.com/julianasantimaria">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&show_icons=true"/>

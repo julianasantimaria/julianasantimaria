@@ -5,13 +5,13 @@
 <img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
 <img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
 
-👩🏼‍💻 I'm Data Engineering Specialist, with a love for technology development.
+👩🏼‍💻 I'm Data scientist and Data Engineering Specialist, with a love for technology development.
 
 👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development.
-   Specialist: Python
+   Specialist: Python and Java
 
-💻 Seniority in Technologies: Python, R, PL.SQL, PowerQuery and Dax.<br/> 
-In avance: C++, Julia, Java and Spark. 
+💻 Seniority in Technologies: Python, R, PL.SQL, SQL, PowerQuery and Dax.<br/> 
+In avance: C++, Julia and Spark. 
 
 📚 Cloud Technologies: Azure, AWS and GCP. 
 

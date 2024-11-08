@@ -11,7 +11,7 @@
    Specialist: Python and Java
 
 💻 Seniority in Technologies: Python, R, PL.SQL, SQL, PowerQuery and Dax.<br/> 
-In avance: C++, HCL, Bash, Julia and Spark. 
+In avance: C++, HCL, Shell, Julia and Spark. 
 
 📚 Cloud Technologies: Azure, AWS and GCP. 
 

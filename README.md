@@ -10,8 +10,8 @@
 👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development.
    Specialist: Python and Java
 
-💻 Seniority in Technologies: Python, R, PL.SQL, SQL, PowerQuery and Dax.<br/> 
-In avance: C++, HCL, Shell, Julia and Spark. 
+💻 Seniority in Technologies: Python, Pyspark, Bash, HCL R, PL.SQL, SQL, PowerQuery and Dax.<br/> 
+In avance: C++, Julia and Spark. 
 
 📚 Cloud Technologies: Azure, AWS and GCP. 
 

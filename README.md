@@ -30,12 +30,6 @@ In avance: C++, Julia, PySpark and Spark.
 <div>
                                                             
 <a href="https://github.com/julianasantimaria">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&theme=neon&&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&theme=neon&layout=compact&langs_count=7&show_icons=true"/>
-</div>
-
-
-<a href="https://github.com/julianasantimaria">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&layout=compact&langs_count=7&theme=dracula"/>
 </div>

@@ -5,9 +5,9 @@
 <img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
 <img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
 
-👩🏼‍💻 I'm Data scientist and Data Engineering Specialist, with a love for technology development.
+👩🏼‍💻 I'm Data Architect and Head Technology, with a love for technology development.
 
-👩🏼‍🎓 Degree in Electrical Engineering and Systems Analisys and Development.
+👩🏼‍🎓 Master in Data Science and Artificial Inteligence.
    Specialist: Python and Java
 
 💻 Seniority in Technologies: Python, Pyspark, Bash, HCL, R, PL.SQL, SQL, PowerQuery and Dax.<br/> 

@@ -5,20 +5,11 @@
 <img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
 <img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
 
-👩🏼‍💻 I'm Data Architect and Head Technology, with a love for technology development.
-
-👩🏼‍🎓 Master in Data Science and Artificial Inteligence.
-   Specialist: Python and Java
-
-💻 Seniority in Technologies: Python, Pyspark, Bash, HCL, R, PL.SQL, SQL, PowerQuery and Dax.<br/> 
-In avance: C++, Julia, Scala and Spark. 
-
-📚 Cloud Technologies: Azure, AWS and GCP. 
-
-❤️ My Hobbies: Programming Language. 
+👩🏼‍💻 💻  📚  
 
 📫 E-mail: juliana.santimaria2@gmail.com 
 <br/>
+📞 Fone: +351 921 293 207 
 <br/>
 <br/>
 <br/>

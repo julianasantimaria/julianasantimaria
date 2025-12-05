@@ -2,8 +2,6 @@
 
 ## 🐍 ☕️ Hello World! ☕️ 🐍
 
-<img width="210px" align="right"  src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/rick3.gif">
-<img width="280px" align="left" src="https://github.com/julianasantimaria/julianasantimaria/blob/HTML/tunel.gif"> 
 
 👩🏼‍💻 💻  📚  
 
@@ -20,10 +18,7 @@
 
 <div>
                                                             
-<a href="https://github.com/julianasantimaria">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasantimaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantimaria&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 ##
 
 
